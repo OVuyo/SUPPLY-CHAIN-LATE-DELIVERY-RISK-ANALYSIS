@@ -125,5 +125,3 @@ Supply_Chain_Optimization_Completed.xlsx
 - Test additional classifiers (decision tree, k-NN) and compare in a model selection sheet
 
 ---
-
-*Built as a portfolio project demonstrating the full analytics lifecycle: exploration → prediction → risk quantification → optimization → communication.*
